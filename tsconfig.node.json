@@ -12,6 +12,7 @@
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
     "noEmit": true,
+    // "types": ["@vitest/browser/providers/playwright"],
 
     /* Linting */
     "strict": true,
